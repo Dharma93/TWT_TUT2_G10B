@@ -1,0 +1,25 @@
+<html>
+<body>
+<form>
+
+<p><strong>What kind of car would you like to buy?</strong></p>
+<td><input type="radio" name="Proton" value="Proton">Proton &nbsp;
+	<input type="radio" name="car" value="Honda"/>Honda &nbsp;
+    <input type="radio" name="car" value="Ferrari"/>Ferrari &nbsp;
+    <input type="radio" name="car" value="Ford"/>Ford &nbsp;
+</td>
+</p>
+<p>What colour do you want on your car?</p>
+<tr><td><b<colour:</b></b></td><td><input type="colour" name="colour"></td></tr>
+
+
+
+<p>Enter... prefered car</p>
+
+
+
+
+<p>Tell us how to get in touch with you</p>
+</form>
+</body>
+</html>
